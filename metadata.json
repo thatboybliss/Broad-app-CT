@@ -1,0 +1,6 @@
+{
+  "name": "Superstar AI Podcast",
+  "description": "Premium podcast application featuring dynamic ambient backgrounds, live-synthesized AI hosts, custom audio-reactive visualization, and a fully functional audio suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

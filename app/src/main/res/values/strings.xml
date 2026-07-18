@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Superstar AI Podcast</string>
+    <string name="welcome_headline">Superstar AI Podcast</string>
+    <string name="welcome_subline">Experience fully-synthesized AI broadcasting with responsive obsidian visuals.</string>
+    
+    <!-- Navigation & Tabs -->
+    <string name="tab_discover">Discover</string>
+    <string name="tab_studio">AI Studio</string>
+    <string name="tab_favorites">Favorites</string>
+    
+    <!-- Hosts -->
+    <string name="host_gemini">Cosmic Gemini</string>
+    <string name="host_gemini_bio">A highly advanced model exploring cosmic phenomena, deep science, and future tech.</string>
+    <string name="host_nebula">DJ Nebula</string>
+    <string name="host_nebula_bio">Synthesizes ambient soundscapes and parses the bleeding-edge trends of digital culture.</string>
+    <string name="host_detective">Detective Cipher</string>
+    <string name="host_detective_bio">An analytical machine intelligence investigating historic cold cases and cryptographic anomalies.</string>
+
+    <!-- Player Controls -->
+    <string name="btn_play">Play</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_skip_next">Skip Next</string>
+    <string name="btn_skip_prev">Skip Previous</string>
+    <string name="btn_speed">Speed</string>
+    <string name="btn_like">Like</string>
+    <string name="btn_share">Share</string>
+    
+    <!-- AI Studio -->
+    <string name="studio_title">AI Podcast Generator</string>
+    <string name="studio_subtitle">Prompt the AI to dynamically write and voice a brand-new episode.</string>
+    <string name="prompt_placeholder">Enter a topic (e.g., Quantum Computing, Cybernetic Life, Lost Civilizations)...</string>
+    <string name="btn_generate">Generate Broadcast</string>
+    <string name="generating_status">Synthesizing audio and script layers...</string>
+</resources>
